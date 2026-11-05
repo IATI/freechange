@@ -4,6 +4,10 @@
 |  [View on npm](https://www.npmjs.com/package/freechange) 	|  [Try on Runkit](https://npm.runkit.com/freechange)	|  [Website](https://xriss.github.io/freechange-charts/)	|
 |-	|-	|-	|
 
+## Origin
+This repository is a standalone copy of [xriss/freechange](https://github.com/xriss/freechange),
+created by xriss and contributors, copied on 2026-10-05 from commit dafc9cb88f59ae54fe6de761d63750c4e5039fc0a.
+
 ### Installation and usage
 
 	npm install freechange
