@@ -12,6 +12,9 @@
   "bin": {
     "freechange": "js/cmd.js"
   },
+  "scripts": {
+    "test": "node --test"
+  },
   "directories": {},
   "dependencies": {
     "csv-parser": "3"
